@@ -1,1 +1,2 @@
-# Bill-split
+# billSplitter
+Bill splitting program
